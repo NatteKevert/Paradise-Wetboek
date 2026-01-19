@@ -1,32 +1,53 @@
 # Opiumwet
 
-### Artikel 3.1. - Harddrugs
-1. Schuldig is een persoon die harddrugs vergaard, in bezit heeft, of verkoopt.
-2. Schuldig is ook een persoon die de ingrediënten, benodigd voor het vervaardigen van harddrugs, vergaard, in bezit heeft, of verkoopt.
-3. Strafbepaling geschiedt op grond van de totale hoeveelheid die aangetroffen is, ook wanneer dit verspreid is over meerdere personen.
-4. Strafbepaling geschiedt op basis van aantallen ingrediënten en aantallen eindproducten.
+## De opiumwet is verdeeld in 1 lijsten
+
+1. Lijst I (Harddrugs)
+Op lijst I van de Opiumwet staan de harddrugs. Deze zijn schadelijker voor de gezondheid dan softdrugs. Voorbeelden zijn heroïne, cocaïne, amfetamine, xtc en GHB. 
+2. Lijst II (Softdrugs) 
+Op lijst II staan de softdrugs. De risico's van deze drugs zijn minder groot dan bij de harddrugs op lijst I. Voorbeelden zijn cannabisproducten (hasj en wiet) en slaapmiddelen. Ook kalmeringsmiddelen als Valium en Seresta staan op deze lijst.
+
+
+### Art. 2 lid a Opiumwet - Smokkel van drugs (Lijst I)
+Het is verboden een middel als bedoeld in de bij deze wet behorende lijst I binnen of buiten het grondgebied van Nederland te brengen.
 
 | *Strafbaar feit*  | *Celstraf*  | *Boete*  |
 |---|---|---|
-|  **Ingrediënten: 1 tot 25** | 0 maanden  | € 2000,-  |
-|  **Ingrediënten: 26 tot 200** | 25 maanden  | € 4000,-  |
-|  **Ingrediënten: 201+** | 50 maanden  | € 6000,-  |
-|  **Eindproduct: 1 tot 20** | 25 maanden  | € 5000,-  |
-|  **Eindproduct: 21 tot 40** | 50 maanden  | € 10.000,-  |
-|  **Eindproduct: 41+** | 75 maanden  | € 15.000,-  |
+|  **Smokkel van drugs** | 40 maanden  | € 4500,-  |
 
-### Artikel 3.2. - Softdrugs
-1. Schuldig is een persoon die softdrugs vergaard, in bezit heeft, of verkoopt.
-2. Schuldig is ook een persoon die de ingrediënten, benodigd voor het vervaardigen van softdrugs, vergaard, in bezit heeft, of verkoopt.
-3. Strafbepaling geschiedt op grond van de totale hoeveelheid die aangetroffen is, ook wanneer dit verspreid is over meerdere personen.
-4. Niet schuldig is een persoon die 5 ingrediënten en of 5 eindproduct voor eigen gebruik bij zich draagt.
-5. Strafbepaling geschiedt op basis van aantallen ingrediënten en aantallen eindproducten.
+### Art. 2 lid b Opiumwet - productie / handel van drugs (Lijst I)
+Het is verboden een middel als bedoeld in de bij deze wet behorende lijst I te telen, te bereiden, te bewerken, te verwerken, te verkopen, af te leveren, te verstrekken of te vervoeren.
 
 | *Strafbaar feit*  | *Celstraf*  | *Boete*  |
 |---|---|---|
-|  **Ingrediënten: 6 tot 25** | 0 maanden  | € 500,-  |
-|  **Ingrediënten: 26 tot 200** | 0 maanden  | € 1000,-  |
-|  **Ingrediënten: 201+** | 15 maanden  | € 2500,-  |
-|  **Eindproduct: 6 tot 20** | 0 maanden  | € 1000,-  |
-|  **Eindproduct: 21 tot 40** | 20 maanden  | € 2500,-  |
-|  **Eindproduct: 41+** | 40 maanden  | € 5000,-  |
+|  **Productie / handel** | 30 maanden  | € 3500,-  |
+
+### Art. 2 lid c Opiumwet - Voorhanden hebben (Lijst I)
+Het is verboden een middel als bedoeld in de bij deze wet behorende lijst I aanwezig te hebben in welke vorm dan ook.
+
+| *Strafbaar feit*  | *Celstraf*  | *Boete*  |
+|---|---|---|
+|  **Voorhanden hebben** | 20 maanden  | € 2500,-  |
+
+### Art. 3 lid a Opiumwet - Smokkel van drugs (Lijst II)
+Het is verboden een middel als bedoeld in de bij deze wet behorende lijst I binnen of buiten het grondgebied van Nederland te brengen.
+
+| *Strafbaar feit*  | *Celstraf*  | *Boete*  |
+|---|---|---|
+|  **Smokkel van drugs** | 30 maanden  | € 3500,-  |
+
+### Art. 3 lid b Opiumwet - productie / handel van drugs (Lijst II)
+Het is verboden een middel als bedoeld in de bij deze wet behorende lijst I te telen, te bereiden, te bewerken, te verwerken, te verkopen, af te leveren, te verstrekken of te vervoeren.
+
+| *Strafbaar feit*  | *Celstraf*  | *Boete*  |
+|---|---|---|
+|  **Smokkel van drugs** | 20 maanden  | € 2500,-  |
+
+### Art. 3 lid c Opiumwet - Voorhanden hebben (Lijst II)
+Het is verboden een middel als bedoeld in de bij deze wet behorende lijst I aanwezig te hebben in welke vorm dan ook.
+
+| *Strafbaar feit*  | *Celstraf*  | *Boete*  |
+|---|---|---|
+|  **Smokkel van drugs** | 15 maanden  | € 2000,-  |
+
+

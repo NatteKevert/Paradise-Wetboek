@@ -1,5 +1,8 @@
 # Algemene Bepalingen
 
+### Wet en Regelgeving
+Bij onderdelen die niet behandeld, opgenomen of besproken worden in de wetboeken wordt de actuele Nederlandse wetgeving aangehouden.
+
 ### Rechtbeginsel
 Een strafbaar feit is pas strafbaar als het op het moment van plegen is opgenomen in de wet. Een verdachte is onschuldig tot het tegendeel bewezen is en dient op basis van hoor
 en wederhoor te worden onderzocht, waarbij de wet alleen toegepast mag worden waar deze voor bedoeld is. Ook mag iemand niet tweemaal veroordeeld worden voor hetzelfde feit.
@@ -18,13 +21,13 @@ Krachtens artikel 6 van het Europees Verdrag voor de Rechten van de Mens is het 
 Indien de voorkeursadvocaat genoemd niet beschikbaar is, is een vervangend advocaat afdoende om te voldoen aan dit recht.
 
 ### Inbeslagname
-Wanneer een strafbaar feit gepleegd is met een goed, of wanneer een goed uit een strafbaar feit is verkregen, kan deze in beslag worden genomen. 
-De politie mag iedere plaats betreden ter inbeslagname van goederen;
+Wanneer een strafbaar feit is gepleegd met een goed, of wanneer een goed uit een strafbaar feit is verkregen, kan dit goed in beslag worden genomen.
+De politie mag plaatsen betreden voor het doel van inbeslagneming van goederen, conform de daarvoor geldende wettelijke voorwaarden.
 
-- Wederechtelijk verkregen voordeel: Goederen waaruit kan blijken dat zij zijn verkregen door crimineel geld. Bijvoorbeeld auto’s en andere luxe goederen.
-- Waarheidsvinding : Goederen die mogelijk uit een strafbaar feit zijn verworven.
-- Verbeurdverklaren: Goederen worden dan in beslag genomen met als doel het aan te bieden voor verkoop.
-- Onttrekken aan verkeer: Goederen worden dan in beslag genomen en ter vernietiging aangeboden.
+- Wederechtelijk verkregen voordeel: Goederen die onomstotelijk en feitelijk bewezen zijn verworven door een strafbaar feit, of goederen die illegaal zijn verkregen of gebruikt in het kader van crimineel handelen.
+- Waarheidsvinding : Goederen die mogelijk verband houden met een strafbaar feit en die kunnen bijdragen aan het vaststellen van de waarheid binnen het onderzoek.
+- Verbeurdverklaring: Goederen die in beslag worden genomen met het doel deze, na rechterlijke uitspraak, te vervreemden (bijvoorbeeld door verkoop).
+- Onttrekking aan het verkeer: Goederen die in beslag worden genomen en vervolgens ter vernietiging worden aangeboden, omdat zij niet in het maatschappelijk verkeer mogen terugkeren.
 
 Verwerking van de in beslag genomen goederen geschiedt volgens richtlijn van Politie.
 
@@ -36,11 +39,29 @@ Voor misdrijven met een strafeis vanaf 20 maanden en hoger, verjaren na 30 dagen
 Straffen die enige vorm van celstraf bevatten kunnen leiden tot een strafblad.
 Een strafblad zal na een tijdsduur van 30 dagen komen te vervallen mits er in de 30 dagen geen nieuw delict wordt gepleegd.
 
-### Uitsluitingsgronden
-Volledige vrijspraak op basis van een strafuitsluitingsgrond is enkel mogelijk in de volgende gevallen;
+### Strafuitslingsgronden
+Er zijn 2 soorten strafuitsluitingsgronden, deze zijn onderverdeeld in:
+    1. Rechtvaardigingsgronden
+    2. Schulduitsluitingsgronden
 
-- Noodweer – Hij die zich verdedigd tegen geweld veroorzaakt door een ander
-- Overmacht – Hij die wordt gedwongen tot enig strafbaar feit
+#### Alleen een rechter kan bepalen of iets wel of niet onder een strafuitsluitingsgrond valt!
+
+#### 1. Rechtvaardigingsgronden
+Deze nemen de Wederrechtelijkheid (Het onrechtmatige) van het feit weg, Deze gronden bepalen dus dat het strafbare feit niet strafbaar is. 
+
+    a. Noodweer. – Hij die zich verdedigd tegen geweld veroorzaakt door een ander.
+    b. Overmacht.  – Hij die wordt gedwongen tot enig strafbaar feit.
+    c. Wettelijk voorschrift. - Handelen conform de wet.
+    d. Bevoegd gegeven ambtelijk bevel. -  Hij die handeld op last van een bevoegde ambtenaar. 
+ 
+#### 2. Schulduitsluitingsgronden
+
+Deze nemen de verwijtbaarheid weg (Je kan het de dader niet verwijten).
+
+    a. Ontoerekeningsvatbaarheid. - Door psychische stoornis of gebrekkige ontwikkeling kon de dader het feit niet verwijten.
+    b. Psychische overmacht. - Een dader moest handelen onder zware psychische druk.
+    c. Noodweerexces. - Verdediging die disproportioneel was door hevige gemoedsbeweging (bijvoorbeeld. paniek). 
+    d. Onbevoegd gegeven ambtelijk bevel. - Handelen op last van een onbevoegde ambtenaar.
 
 ### Goederen
 Onder goederen kan worden verstaan alles wat tussen twee personen kan worden uitgewisseld. Onderzoek hiernaar heeft een duur, tenzij expliciet anders aangegeven, van maximaal 2 dagen. 

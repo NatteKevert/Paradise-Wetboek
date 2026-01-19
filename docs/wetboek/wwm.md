@@ -1,45 +1,47 @@
 # Wet Wapens en Munitie
 
-### Artikel 4.1. - Nepwapens
-1. Strafbaar is een persoon die een holster draagt met daarin een nepwapen of replica die, van dichtbij of op enige afstand, niet gemakkelijk van echt te onderscheiden is.
+## Categorieën wapens (WWM)
+WWM Categorie I 
+WWM Categorie II
+WWM Categorie III
+WWM Categorie IV 
+
+### Artikel 20a WWM - verhandeling van wapens.
+Het doorverkopen, weggeven, verduisteren of dumpen van wapens, muntie en/of wapenonderdelen.
 
 | *Strafbaar feit*  | *Celstraf*  | *Boete*  |
 |---|---|---|
-|  **Nepwapens** | 0 maanden  | € 1000,-  |
+|  **verhandeling van wapens** | 30 maanden  | € 4.000,-  |
+|
 
-### Artikel 4.2. - Steek- en slagwapens
-1. Strafbaar is een persoon die een steek of slagwapen voorhanden heeft, bij zich draagt, of opgeslagen heeft in huis of in de laadruimte van zijn of haar vervoermiddel, waarvan redelijkerwijs kan worden aangenomen dat deze bestemd is om letsel toe te brengen.
-
-| *Strafbaar feit*  | *Celstraf*  | *Boete*  |
-|---|---|---|
-|  **Steek- en slagwapens** | 0 maanden  | € 1500,-  |
-
-### Artikel 4.3. - Stroomstootwapens
-1. Strafbaar is een persoon die een stroomstootwapen voorhanden heeft, bij zich draagt, opgeslagen heeft in huis of in de laadruimte van zijn of haar vervoermiddel.
+### Artikel 26 WWM - Verboden wapenbezit.
+Het voorhanden hebben van een onvergunt wapen.
 
 | *Strafbaar feit*  | *Celstraf*  | *Boete*  |
 |---|---|---|
-|  **Stroomstootwapen** | 10 maanden  | € 2000,-  |
+|  **CAT I** | 15 maanden  | € 2.000,-  |
+|  **CAT II** | 40 maanden  | € 5.000,-  |
+|  **CAT III** | 30 maanden  | € 3.500,-  |
+|  **CAT IV** | 10 maanden  | € 1.500,-  |
 
-### Artikel 4.4. - Vuurwapens en Explosieven
-1. Strafbaar is een persoon die een vuurwapen voorhanden heeft, bij zich draagt, of opgeslagen heeft in huis of in de laadruimte van zijn of haar vervoermiddel.
-2. Onderscheid wordt gemaakt tussen:
 
-- CAT 1 Kleine vuurwapens (pistolen, revolvers, e.d.).
-- CAT 2 Automatische vuurwapens, jachtgeweren, shotguns, explosieven, granaten, thermiet
+### Artikel 28 WWM - Wapen verlof
+In uitzonderlijke gevallen is er door personen een Wapenverlof aan te vragen, Dit verlof geld voor wapens uit Categorie III.  Dit zitten een aantal voorwaarden aan vast:
 
-| *Strafbaar feit*  | *Celstraf*  | *Boete*  |
-|---|---|---|
-|  **CAT 1 Vuurwapen** | 30 maanden  | € 7500,-  |
-|  **CAT 2 Vuurwapen** | 60 maanden  | € 15.000,-  |
+#### Voorwaarden
+1. Persoon mag geen strafblad hebben
+2. Persoon heeft een aantoonbaar goede reden nodig om het verlof aan te vragen
+3. Persoon moet een psygologische keuring gedaan hebben bij het ziekenhuis,  Hier dient een schriftelijke uitslag van overhandigd te worden. 
+Tijdens het gebruik van het verlof gelden strenge maatregelen, Hij/zij die zich niet aan deze maatregelen houd maakt zich schuldig aan *Artikel 26 WWM Cat XX*.  Bij schuldig making hiervan wordt het verlof direct ingetrokken en vinden er mogelijk strafrechtelijke vervolgingen plaats.
 
-### Artikel 4.5. - Wapenhandel
-1. Strafbaar is een persoon die wapens, aangemerkt als niet legaal, invoert, uitvoert, of doorvoert zonder hiervoor een geldig consent te hebben.
-2. Indien een ophanden zijnde wapen transactie aantoonbaar gepleegd zou gaan worden, of dreigde te gaan worden, doch niet is afgerond, wordt dit aangemerkt als poging tot wapenhandel.
-
-| *Strafbaar feit*  | *Celstraf*  | *Boete*  |
-|---|---|---|
-|  **Poging wapenhandel CAT 1** | 15 maanden  | € 5000,-  |
-|  **Wapenhandel CAT 1** | 30 maanden  | € 10.000,-  |
-|  **Poging wapenhandel CAT 2** | 30 maanden  | € 7500,-  |
-|  **Wapenhandel CAT 2** | 60 maanden  | € 20.000,-  |
+#### Maatregelen
+1. Het is de verantwoordelijkheid van de verlofhouder om op de hoogte te zijn van de huidige wetten en wetsaanpassingen omtrent het verlof.
+2. Bij aanvraag van het verlof gaat de aanvrager automatisch toestemming dat de politie in het begin, en regelmatig op geregistreerde adressen van de aanvrager te controleren op de regels.
+3. Vuurwapens mogen alleen Zichtbaar gedragen worden in een holster die voldoet aan keurmerken (Veiligheid pal en stevig materiaal.)
+4. Elke verlofhouder mag Maximaal 2 vuurwapens bezitten.
+5. Elk vuurwapen dient DIRECT na aankoop geregistreerd te worden bij de politie.
+6. Bij gebruik van het vuurwapen dient er DIRECT ZODRA HET VEILIG IS contact op te nemen met de politie.
+7. Diefstal of verlies van het vuurwapen dient Z.S.M. Doorgegeven te worden aan de politie.
+8. De eigenaar is ten alle tijden verantwoordelijkheid voor zijn/haar vuurwapen. 
+9. Bij aanvraag van het verlof gaat de aanvrager automatisch in toestemming dat de politie in het begin, en regelmatig op geregistreerde adressen van de aanvrager te controleren op de regels.
+10. Het verlof dient niet vernieuwd te worden, Het verlof wordt ingetrokken zodra iemand zich schuldig maakt aan Artikel 26 WWM of als iemand niet meer aan de voorwaarden kan voldoen.

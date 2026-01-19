@@ -12,18 +12,18 @@ Hiervoor is bewijs nodig (video of foto). Zonder bewijs kan een straf niet worde
 
 ### **A.1 - Geldigheid**
 1. Bij wijzigingen in de wetgeving na het moment waarop het feit plaatsvond, gelden altijd de bepalingen die het meest gunstig zijn voor de verdachte.
-2. Staffleden mogen niet deelnemen aan beslissingen over zaken waarbij zijzelf, vrienden of familie betrokken zijn, om eerlijkheid en rechtvaardigheid te waarborgen.
+2. Staffleden mogen niet deelnemen aan beslissingen over zaken waarbij zijzelf betrokken zijn, om eerlijkheid en rechtvaardigheid te waarborgen.
 3. Wordt er tegen staff gelogen en kan dit met overtuigend bewijs (zoals logbestanden) worden aangetoond, dan kan de straf worden verzwaard.
 4. Tickets die later dan twee weken na het incident worden ingediend, komen niet meer in aanmerking voor een refund.
 
-### **A.2 - Geldigheid**
+### **A.2 - Strafbepaling**
 
 1. De straffen zijn onderverdeeld in de volgende categorieën:
-    * **Categorie 1:** Een waarschuwing + 100 uur celstraf
+    * **Categorie 1:** Een waarschuwing
       *(Maximaal 3 waarschuwingen in 1 maand; hierna volgt een verzwaring naar categorie 2.)*
-    * **Categorie 2:** Een ban van 3 dagen + 50 uur celstraf
-    * **Categorie 3:** Een ban van 7 dagen + 50 uur celstraf
-    * **Categorie 4:** Een ban van 30 dagen + 50 uur celstraf
+    * **Categorie 2:** Een ban van 3 dagen
+    * **Categorie 3:** Een ban van 7 dagen
+    * **Categorie 4:** Een ban van 30 dagen
     * **Categorie 5:** Permanente ban
       *(Na 1 maand kan er een verzoek voor een unban ingediend en beoordeeld worden.)*
     * **Categorie 6:** Account wipe
@@ -127,9 +127,29 @@ Hiervoor is bewijs nodig (video of foto). Zonder bewijs kan een straf niet worde
 2. Ziekenhuispersoneel: toegestaan als ≥3 in dienst.
      *  **Sanctie:** Categorie 1
 
-### **Artikel 21 – Stelen van overheidsvoertuigen of spullen**
-1. Verboden tenzij uitzonderlijk RP-scenario na overleg met staff.
-     *  **Sanctie:** Categorie 2 / Categorie4
+### **Artikel 21 – Diefstal van overheidsvoertuigen, -materiaal en politie-uitrusting**
+Het stelen van overheidsvoertuigen, overheidsmateriaal of politie-uitrusting is verboden, tenzij het onderdeel is van een legitiem RP-scenario waarin:
+* Minimaal drie (3) actieve agenten aanwezig zijn binnen het lopende scenario.
+* De diefstal uitsluitend dient als vluchtmiddel of logisch vervolg binnen het RP-verloop.
+* De actie niet plaatsvindt in een 1-op-1 situatie met één enkele agent.
+* De actie niet bedoeld is als provocatie, misbruik of powergaming.
+
+**Toegestaan onder voorwaarden:**
+* Het stelen van losse politie-items uit een overheidsvoertuig (bijvoorbeeld batons, handboeien, zaklampen, tazers), wanneer dit logisch voortkomt uit een RP-situatie.
+
+> Hierbij geldt dat het voertuig niet mag worden geopend of gekraakt zonder RP-reden.
+
+* Je mag geen wapens (firearms) of hoog-risico items meenemen indien dit de balans van het scenario verstoort.
+
+     **Verboden:**
+
+     * Het looten van neergehaalde, bewusteloze of geboeide agenten, ongeacht het item.
+     * Het stelen van dienstwapens (uit voertuigen of van agenten) tenzij staff expliciet toestemming geeft voor een speciaal scenario of evenement.
+     * Het structureel, herhaald of duidelijk misbruikmatig verzamelen van politie-items.
+
+     *Bij twijfel ligt de interpretatie bij staff, die beoordeelt op RP-waarde, balans en misbruik.*
+
+     *  **Sanctie:** Categorie 2 / Categorie 4 (afhankelijk van ernst, misbruik of herhaling)
 
 ### **Artikel 22 – Combat Logging**
 1. Server verlaten tijdens lopend scenario is verboden.
@@ -138,3 +158,38 @@ Hiervoor is bewijs nodig (video of foto). Zonder bewijs kan een straf niet worde
 ### **Artikel 23 – Laag niveau van roleplay**
 1. Voorbeelden: onnodig geweld, RDM, bemoeien zonder RP, uitloggen op illegale locatie.
     *  **Sanctie:** Categorie 1 / Categorie 2
+
+### **Artikel 24 – Corruptie binnen de Overheidsdiensten**
+Corruptie door overheidspersoneel (Politie & Ambulance) is beperkt toegestaan, mits dit binnen redelijke grenzen blijft en het RP niet schaadt of de organisatie ondermijnt.
+
+**Toegestaan als “lichte corruptie” (laag risico, RP-versterkend):**
+
+* Het doorspelen van kleine hoeveelheden informatie, zoals locaties, namen of waarschuwingen.
+* Het tegen betaling laten ontsnappen van een verdachte met een lichte straf of boete.
+* Het doorverkopen van kleine in beslag genomen items van de verdachte, zoals:
+     * Pistolen
+     * Kleine hoeveelheden drugs
+     * Lichte contrabande
+     * Het oogluikend toestaan van kleine overtredingen tegen vergoeding (bijv. iemand wegsturen i.p.v. bekeuren).
+
+*Deze vormen van corruptie moeten logisch, realistisch en discreet plaatsvinden, zonder het korps of de totale balans te schaden.*
+
+**Strikt verboden als “zware corruptie” (RP-brekend, korps-ondermijnend):**
+
+* Het stelen, verkopen of doorspelen van zware wapens uit kluizen, HQ of voertuigen.
+* Het verhandelen van politie-uitrusting
+* Het systematisch lekken van operationele data (bijv. alle drugslocaties, alle raids, alle undercover-agenten).
+* Het manipuleren of misbruiken van dienstsystemen (MDT, bodycamlogs, boetes, rapporten).
+* Het laten gaan van zware criminelen die gezocht staan voor ernstige misdrijven (moord, zware overvallen, grote heists).
+* Elke actie die het korps structureel in gevaar brengt of het RP rondom politie volledig ondermijnt.
+* Zware corruptie wordt gezien als RP-brekend en leidt direct tot een zware sanctie.
+
+> **Belangrijk:**
+- Corruptie moet verhalend, natuurlijk en subtiel gebeuren. Zodra het spelplezier of de balans in gevaar komt, grijpt staff in.
+
+    *  **Sanctie:** Categorie 6
+
+### **Artikel 25 – Ristricties overheidsdiensten**
+1. Het "main" eiland Los Santos valt onder de dienstverlening van de EMS, LSPD en BCSO.
+2. De naastgelegen "kleine" eilanden vallen buiten de werkgebieden van de benoemde diensten. Hier mág gehandhaafd worden.
+3. Cayo Perico is een gebied waar geen wetten zijn en niet gehandhaafd wordt. Hier is het wetboek ook niet geldig.

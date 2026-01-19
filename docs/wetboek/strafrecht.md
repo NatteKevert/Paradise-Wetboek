@@ -1,200 +1,219 @@
 ## Wetboek van Strafrecht
 
-### Artikel 1.1. - Bedreiging
-1. Schuldig is een persoon die dreiging uit met zwaar lichamelijk letsel of dood, jegens personen of goederen. Dit kan zowel verbaal als doormiddel van een wapen.
+### Art. 45 Sr - Poging en voorbereiding
+Hij die een poging doet, of voorbereidingen treft om een strafbaar feit te plegen. Het artikel haalt ⅓ van de strafeis af.
+
+### Art. 139 Sr - Lokaalvredebreuk
+hij die wederrechtelijk een voor de openbare dienst bestemd lokaal binnendringt, of daar verblijft en zich niet verwijdert na een vordering van een bevoegde ambtenaar.
 
 | *Strafbaar feit*  | *Celstraf*  | *Boete*  |
 |---|---|---|
-|  **Bedreiging verbaal** | 0 maanden  | € 750,-  |
-|  **Bedreiging verbaal Ambtenaar** | 0 maanden  | € 1000,-  |
-|  **Bedreiging wapen** | 10 maanden  | € 1500,-  |
-|  **Bedreiging wapen Ambtenaar** | 15 maanden  | € 750,-  |
+|  **Lokaalvredebreuk** | 10 maanden  | € 1000,-  |
 
-### Artikel 1.2. - Gijzeling
-1. Schuldig is een persoon die overgaat tot wederrechtelijke beroving van de vrijheid van een derde.
+### Art. 180 Sr - Wederspannigheid
+Hij die actief, gewelddadig verzet tegen een optredende ambtenaar.
+
+| *Strafbaar feit*  | *Celstraf*  | *Boete*  |
+|---|---|---|
+|  **Wederspannigheid** | 15 maanden  | € 2000,-  |
+
+### Art. 183 Sr - Huisvredebreuk
+Het wederrechtelijk binnendringen of verblijven in een woning, besloten lokaal of erf bij een ander in gebruik
+
+| *Strafbaar feit*  | *Celstraf*  | *Boete*  |
+|---|---|---|
+|  **Huisvredebreuk** | 10 maanden  | € 1000,-  |
+
+### Art. 184 Sr - Negeren bevel of vordering
+Het negeren van een geldig bevel of vordering van een bevoegde ambtenaar (zoals politie, officier van justitie)
+
+| *Strafbaar feit*  | *Celstraf*  | *Boete*  |
+|---|---|---|
+|  **Negeren bevel of vordering** | 10 maanden  | € 500,-  |
+
+### Art. 261 Sr - Smaad
+het opzettelijk aantasten van iemands eer of goede naam door een bepaald feit te beschuldigen
+
+| *Strafbaar feit*  | *Celstraf*  | *Boete*  |
+|---|---|---|
+|  **Smaad** | 5 maanden  | € 1500,-  |
+
+### Art. 262 Sr - Laster
+smaad waarbij de dader weet dat de beschuldiging onwaar is
+
+| *Strafbaar feit*  | *Celstraf*  | *Boete*  |
+|---|---|---|
+|  **Laster** | 20 maanden  | € 2000,-  |
+
+### Art. 266 Sr - Eenvoudige belediging
+Schuldig is een persoon die opzettelijk een ander beledigd. Dit geldt zowel verbaal als non-verbaal.
+
+| *Strafbaar feit*  | *Celstraf*  | *Boete*  |
+|---|---|---|
+|  **Eenvoudige belediging** | 0 maanden  | € 750,-  |
+
+### Art. 267 Sr - Belediging ambtenaar in functie
+Schuldig is een persoon die opzettelijk een ambtenaar beledigd. Dit geldt zowel verbaal als non-verbaal.
+
+| *Strafbaar feit*  | *Celstraf*  | *Boete*  |
+|---|---|---|
+|  **Belediging AIF** | 5 maanden  | € 1000,-  |
+
+### Art. 282 Sr - Opzettelijke vrijheidsberoving
+Hij die opzettelijk iemand wederrechtelijk van de vrijheid berooft.
+
+| *Strafbaar feit*  | *Celstraf*  | *Boete*  |
+|---|---|---|
+|  **vrijheidsberoving** | 30 maanden  | € 4000,-  |
+
+### Art. 282a Sr - Gijzeling
+Hij die opzettelijk iemand wederrechtelijk van de vrijheid berooft of beroofd houdt met het oogmerk een ander te dwingen iets te doen of niet te doen.
 
 | *Strafbaar feit*  | *Celstraf*  | *Boete*  |
 |---|---|---|
 |  **Gijzeling** | 40 maanden  | € 5000,-  |
-|  **Gijzeling Ambtenaar** | 60 maanden  | € 7500,-  |
 
-### Artikel 1.3. - Mishandeling
-1. Schuldig is een persoon die opzettelijk en wederrechtelijk een ander mishandeld met ten hoogste licht lichamelijk, dan wel geestelijk letsel tot gevolg.
-2. Wij spreken van zware mishandeling wanneer een bezoek aan medici noodzakelijk is.
+### Art. 285 Sr - Bedreiging
+Het opzettelijk een ander angst aanjagen door te dreigen met ernstige misdrijven zoals mishandeling, doodslag, of brandstichting, wat kan leiden tot straffen zoals een taakstraf of gevangenisstraf, waarbij de dreiging redelijke vrees moet kunnen opwekken om strafbaar te zijn.
 
 | *Strafbaar feit*  | *Celstraf*  | *Boete*  |
 |---|---|---|
-|  **Mishandeling** | 20 maanden  | € 3000,-  |
-|  **Mishandeling Ambtenaar** | 30 maanden  | € 4500,-  |
-|  **Zware Mishandeling** | 30 maanden  | € 5000,-  |
-|  **Zware Mishandeling Ambtenaar** | 45 maanden  | € 7500,-  |
+|  **Bedreiging** | 0 maanden  | € 1250,-  |
 
-### Artikel 1.4. - Poging moord/moord
-1. Schuldig is een persoon die opzettelijk een ander van het leven berooft. Wanneer de daad niet is gelukt, maar het handelen redelijkerwijs wel de dood tot gevolg had kunnen hebben, spreken wij van poging tot moord.
+### Art. 287 Sr - Doodslag
+Het opzettelijk een ander van het leven beroven.
 
 | *Strafbaar feit*  | *Celstraf*  | *Boete*  |
 |---|---|---|
-|  **Poging moord** | 50 maanden  | € 7500,-  |
-|  **Poging moord Ambtenaar** | 75 maanden  | € 11.250,-  |
-|  **Moord** | 100 maanden  | € 15.000,-  |
-|  **Moord Ambtenaar** | 150 maanden  | € 22.500,-  |
+|  **Doodslag** | 45 maanden  | € 7500,-  |
 
-### Artikel 1.5. - Heling
-1. Schuldig is een persoon die een goed, afkomstig uit een misdrijf, verwerft of hierop aanspraak maakt of een persoon die voordeel trekt uit opbrengst van een door misdrijf verkregen goed.
-2. Niet schuldig is een persoon die redelijkerwijs geen weet heeft, of kan hebben, van de afkomst uit een misdrijf van het goed.
+### Art. 289 Sr - Moord
+hij die opzettelijk en met voorbedachten rade een ander van het leven berooft.
 
 | *Strafbaar feit*  | *Celstraf*  | *Boete*  |
 |---|---|---|
-|  **Heling** | 0 maanden  | € 1500,-  |
+|  **Moord** | 55 maanden  | € 8500,-  |
 
-### Artikel 1.6. - Witwassen
-1. Schuldig is een persoon die geld of goederen, verkregen uit misdrijf, vermengt of poogt te vermengen met het reguliere circuit van geld en goederen.
-
-| *Strafbaar feit*  | *Celstraf*  | *Boete*  |
-|---|---|---|
-|  **Heling** | 15 maanden  | € 5000,-  |
-
-### Artikel 1.7. - Diefstal, Diefstal met geweld/ Overval
-1. Schuldig is een persoon die een goed, of voertuig, wegneemt zonder daarvoor toestemming of enig recht toe te hebben.
-2. Indien er geweld of dreiging van geweld is gebruikt ( Overval ) om de diefstal te voltooien, spreken wij over diefstal met geweld
+### Art. 300 Sr - Mishandeling
+Hij die opzettelijk iemand anders lichamelijk letsel toedoet.
 
 | *Strafbaar feit*  | *Celstraf*  | *Boete*  |
 |---|---|---|
-|  **Diefstal** | 10 maanden  | € 3000,-  |
-|  **Diefstal met geweld** | 15 maanden  | € 4500,-  |
+|  **Mishandeling** | 15 maanden  | € 2500,-  |
 
-### Artikel 1.8. - Huisvredebreuk
-1. Schuldig is een persoon die een woning of besloten lokaal of erf bij een ander in gebruik, wederrechtelijk binnendringt of, wederrechtelijk aldaar vertoevende, zich niet op de vordering van of vanwege de rechthebbende aanstonds verwijderd.
-2. Schuldig is een persoon die de handelingen verrichten, van lid 1, op een voor de openbare dienst bestemd lokaal, openbare ruimte of besloten erf dat bestemd is voor de openbare dienst, wederrechtelijk binnendringt, of, wederrechtelijk aldaar vertoevende, zich niet op de vordering van de bevoegde ambtenaar aanstonds verwijdert.
+### Art. 302 Sr - Zware mishandeling
+Hij die opzettelijk iemand anders lichamelijk mishandelt er opzet is om zwaar lichamelijk letsel toe te brengen, of als dit eruit voortvloeit (bijv. langdurige genezing).
 
 | *Strafbaar feit*  | *Celstraf*  | *Boete*  |
 |---|---|---|
-|  **Huisvredebreuk** | 0 maanden  | € 1000,-  |
+|  **Zware mishandeling** | 20 maanden  | € 3000,-  |
 
-### Artikel 1.9. - Inbraak
-1. Wanneer diefstal waarbij de schuldige zich de toegang tot de plaats van het misdrijf heeft verschaft of het weg te nemen goed onder zijn bereik heeft gebracht door middel van braak, verbreking, inklimming of gebruik van valse sleutels/ lockpick.
-
-| *Strafbaar feit*  | *Celstraf*  | *Boete*  |
-|---|---|---|
-|  **Inbraak** | 10 maanden  | € 2000,-  |
-
-### Artikel 1.10. - Vernieling
-1. Schuldig is een persoon die opzettelijk en wederrechtelijk een goed dat geheel of ten dele aan een ander toebehoort, vernielt, beschadigt, onbruikbaar maakt of wegmaakt.
-2. Met vernieling wordt ook gelijkgesteld het opzettelijk en wederrechtelijk doden, beschadigen, onbruikbaar maken of wegmaken van een (huis)dier.
-3. Met vernieling wordt ook gelijkgesteld het opzettelijk vernielen van eigendommen van de staat.
+### Art. 304 Sr - Mishandeling van een ambtenaar
+Hij die opzettelijk iemand met een ambtelijke status letsel toedoet.
 
 | *Strafbaar feit*  | *Celstraf*  | *Boete*  |
 |---|---|---|
-|  **Vernieling** | 0 maanden  | € 1000,-  |
-|  **Vernieling staatsiegendom** | 0 maanden  | € 1500,-  |
+|  **Mishandeling van een ambtenaar** | 25 maanden  | € 3500,-  |
 
-### Artikel 1.11. - Oplichting
-1. Hij die probeert om zichzelf of iemand anders oneerlijk te bevoordelen door bijvoorbeeld een valse naam te gebruiken, te liegen of bedrog te plegen om geld, spullen, diensten, informatie, schulden of kwijtschelding van schulden te krijgen, dan wordt dat gezien als oplichting.
+### Art. 307 Sr - Dood door schuld
+Hij aan wiens schuld de dood van een ander te wijten is door roekeloosheid, grove onvoorzichtigheid
+
+| *Strafbaar feit*  | *Celstraf*  | *Boete*  |
+|---|---|---|
+|  **Dood door schuld** |  30 maanden  | € 4000,-  |
+
+### Art. 310 Sr - Eenvoudige Diefstal
+Hij die een goed dat geheel of gedeeltelijk aan een ander toebehoort wegneemt, met de bedoeling het zich wederrechtelijk toe te eigenen.
+
+| *Strafbaar feit*  | *Celstraf*  | *Boete*  |
+|---|---|---|
+|  **Eenvoudige Diefstal** | 10 maanden  | € 2000,-  |
+
+### Art. 311 Sr - Gekwalificeerde Diefstal
+Dit artikel beschrijft diefstal met verzwarende omstandigheden, zoals diefstal met braak, in een woning, door twee of meer personen, of bij bepaalde noodsituaties (brand, watersnood, etc.).
+
+| *Strafbaar feit*  | *Celstraf*  | *Boete*  |
+|---|---|---|
+|  **Gekwalificeerde Diefstal** | 15 maanden  | € 2500,-  |
+
+### Art. 312 Sr -  Diefstal met geweldpleging
+Hij die een goed dat geheel of gedeeltelijk aan een ander toebehoort wegneemt, met de bedoeling het zich wederrechtelijk toe te eigenen waar geweld bij komt kijken.
+
+| *Strafbaar feit*  | *Celstraf*  | *Boete*  |
+|---|---|---|
+|  **Diefstal met geweldpleging** | 20 maanden  | € 3000,-  |
+
+### Art. 326 Sr -  Oplichting
+Hij die probeert om zichzelf of iemand anders oneerlijk te bevoordelen door bijvoorbeeld een valse naam te gebruiken, te liegen of bedrog te plegen om geld, spullen, diensten, informatie, schulden of kwijtschelding van schulden te krijgen, dan wordt dat gezien als oplichting.
 
 | *Strafbaar feit*  | *Celstraf*  | *Boete*  |
 |---|---|---|
 |  **Oplichting** | 20 maanden  | € 5000,-  |
 
-### Artikel 1.12. - Negeren bevel of vordering
-1. Schuldig is een persoon die opzettelijk niet voldoet aan een bevel of vordering dat krachtens wettelijk voorschrift wordt gegeven door een ambtenaar in functie.
-2. Schuldig is een persoon die opzettelijk een ambtenaar in functie belemmert in de uitvoering van zijn rechtmatige ambtshandeling, zoals bij het verzetten bij aanhouding.
-3. LET OP, wanneer de persoon weet te vluchten zonder dat er een bevel tot medewerking is gegeven, maakt deze zich niet schuldig aan lid 1 en 2. De strafbare feiten die worden gepleegd ten tijde van de vluchtpoging worden wel bij de totaal straf opgeteld.
+### Art. 350 Sr -  Vernieling
+Schuldig is een persoon die opzettelijk en wederrechtelijk een goed dat geheel of ten dele aan een ander toebehoort, vernielt, beschadigt, onbruikbaar maakt of wegmaakt.
+1. Met vernieling wordt ook gelijkgesteld: het opzettelijk en wederrechtelijk doden, beschadigen, onbruikbaar maken of wegmaken van een (huis)dier.
+2. Met vernieling wordt ook gelijkgesteld het opzettelijk vernielen van eigendommen van de staat.
 
 | *Strafbaar feit*  | *Celstraf*  | *Boete*  |
 |---|---|---|
-|  **Negeren bevel/vordering** | 0 maanden  | € 1000,-  |
-|  **Verzet bij aanhouding** | 10 maanden  | € 2000,-  |
+|  **Vernieling** | 10 maanden  | € 1500,-  |
 
-### Artikel 1.13. - Rechtsgang belemmering
-1. Schuldig is een persoon die opzettelijk een gerechtelijke procedure belemmerd door bijvoorbeeld het intimideren van getuige, het wegmaken van bewijsmateriaal of door het plegen van meineed.
-
-| *Strafbaar feit*  | *Celstraf*  | *Boete*  |
-|---|---|---|
-|  **Rechtsgang belemmering** | 50 maanden  | € 10.000,-  |
-
-### Artikel 1.14. - Belediging
-1. Schuldig is een persoon die opzettelijk een ander beledigd. Dit geld zowel verbaal als non-verbaal.
+### Art. 416 Sr - Opzetheling
+Hij die bewust een gestolen goed verwerft, voorhanden heeft, overdraagt, of een recht daarop vestigt, of opzettelijk voordeel trekt uit de opbrengst van zo'n goed.
 
 | *Strafbaar feit*  | *Celstraf*  | *Boete*  |
 |---|---|---|
-|  **Belediging** | 0 maanden  | € 500,-  |
-|  **Belediging Ambetenaar** | 0 maanden  | € 750,-  |
+|  **Opzetheling** | 15 maanden  | € 2000,-  |
 
-### Artikel 1.15. - Belediging
-1. hij die opzettelijk iemand die schuldig is aan of verdachte is van enig misdrijf, verbergt of hem behulpzaam is in het ontkomen
-2. hij die nadat enig misdrijf is gepleegd, helpt met het beletten en belemmeren van de opsporing door de gebruikte goederen en voorwerpen te vernietigen, wegmaken, verbergen of aan het onderzoek van de ambtenaren van de justitie of politie onttrekt.
+### Art. 417 Sr - Gewoonteheling
+Zwaarder bestraft het van opzetheling een gewoonte maken, bijvoorbeeld door herhaaldelijk gestolen goederen te kopen.
 
 | *Strafbaar feit*  | *Celstraf*  | *Boete*  |
 |---|---|---|
-|  **Medeplegen** | helft van strafbare feit  | helft van strafbare feit |
+|  **Gewoonteheling** | 20 maanden  | € 2500,-  |
 
-### Artikel 1.16. - Identiteit
-1. Schuldig is een persoon die geen gehoor geeft aan een vordering tot inzage van het identiteitsbewijs door een ambtenaar in functie, wanneer dit in het kader van de wet door de ambtenaar als noodzakelijk wordt geacht,
-2. Schuldig is een persoon die een valse naam opgeeft, of een gedeeltelijk valse naam met als doel zijn waren identiteit te verhullen.
-
-| *Strafbaar feit*  | *Celstraf*  | *Boete*  |
-|---|---|---|
-|  **Niet tonen ID** | 0 maanden  | € 500,-  |
-|  **Opgeven valse naam** | 0 maanden  | € 1500,-  |
-
-### Artikel 1.17. - Openbare dronkenschap
-1. Schuldig is een persoon die zich begeeft in de openbare ruimte terwijl hij of zij in kennelijke staat van dronkenschap verkeert.
+### Art. 417BIS Sr - Schuldheling
+Heling waarbij hij had kunnen vermoeden dat het om een gestolen goed ging (te mooi om waar te zijn), bijvoorbeeld bij de aankoop van een product.
 
 | *Strafbaar feit*  | *Celstraf*  | *Boete*  |
 |---|---|---|
-|  **Openbare dronkenschap** | 0 maanden  | € 500,-  |
+|  **Schuldheling** | 10 maanden  | € 1500,-  |
 
-### Artikel 1.18. - Gezicht bedekende kledij
-1. Schuldig is een persoon die kleding draagt, die het gezicht geheel bedekt of zodanig bedekt dat alleen de ogen onbedekt zijn, dan wel onherkenbaar maakt.
-
-| *Strafbaar feit*  | *Celstraf*  | *Boete*  |
-|---|---|---|
-|  **Gezicht bedekende kledij** | 0 maanden  | € 1000,-  |
-
-### Artikel 1.19. - Terrorisme
-1. Schuldig is een persoon die door het plegen van op mensenlevens gericht geweld, dan wel het aanrichten van maatschappij-ontwrichtende zaakschade, met als doel maatschappelijke ondermijning en destabilisatie te bewerkstelligen, de bevolking probeert ernstige vrees aan te jagen of politieke besluitvorming probeert te beïnvloeden..
-2. Wanneer lid 1 in vereniging van meerdere personen gebeurd. Spreken wij over een terroristische organisatie, welke door de rechter kan worden verboden.
+### Art. 420BIS Sr - Witwassen
+Schuldig is een persoon die geld of goederen, verkregen uit misdrijven, vermengt of poogt te vermengen met het reguliere circuit van geld en goederen.
 
 | *Strafbaar feit*  | *Celstraf*  | *Boete*  |
 |---|---|---|
-|  **Terrorisme** | 100 maanden  | € 15.000,-  |
+|  **Witwassen** | 15 maanden  | € 4000,-  |
 
-### Artikel 1.20. - Criminele organisatie
-1. Schuldig is een persoon die deelneemt aan, steun verleent aan, of gelieerd is aan een organisatie die tot doel heeft het plegen van misdrijven.
-2. Schuldig is een persoon die een organisatie opricht, leiding geeft aan, bestuurd, met als doel het plegen van strafbare feiten.
-
-| *Strafbaar feit*  | *Celstraf*  | *Boete*  |
-|---|---|---|
-|  **Criminele organisatie, Lid** | 20 maanden  | € 5000,-  |
-|  **Criminele organisatie, Leiden** | 40 maanden  | € 10.000,-  |
-
-### Artikel 1.21. - Militair domein
-1. Schuldig is een persoon die zonder daartoe gerechtigd is, over iemand anders zijn grond waarvan de toegang op een voor hem blijkbare wijze door den rechthebbende is verboden, loopt, rijdt of vee laat lopen.
-2. Bij wet geclassificeerde militaire domeinen;
-
-- Luchtmachtbasis
-- Vliegdekschip
+### Art. 447e Sr - niet voldoen aan een vordering tot identificatie
+Niet je identiteitsbewijs geven als een agent of toezichthouder er met een geldige reden om vraagt.
 
 | *Strafbaar feit*  | *Celstraf*  | *Boete*  |
 |---|---|---|
-|  **Militair domein** | 10 maanden  | € 1500,-  |
+|  **niet voldoen aan een vordering tot identificatie** | 0 maanden  | € 1000,-  |
 
-### Artikel 1.21. - Stroperij
-1. Een persoon is schuldig wanneer deze weet of behoort te weten dat het verboden is om jacht te maken op Flora en Fauna die bij wet beschermd zijn, en zonder toestemming van autoriteiten zijn verworven of bij zich draagt.
-2. Onder beschermd wordt verstaan: diersoorten die wettelijk beschermd zijn, bijvoorbeeld omdat zij bedreigd worden in hun voortbestaan of beschermd moeten worden tegen overmatige benutting.
-3. Een persoon is schuldig wanneer deze een beschermd dier bij zich draagt.
-4. Een persoon is schuldig wanneer deze een beschermd dier vervoert in een voertuig.
-
-Bij wet geclassificeerde beschermde dieren;
-
-- antipatharia
-- dendrogyra coral
-- Orka’s
-- Haaien
+### Art. 461 Sr - Verboden toegang voor onbevoegden
+Hij die, zonder daartoe gerechtigd te zijn, zich op eens anders grond waarvan de toegang op een voor hem blijkbare wijze door de rechthebbende is verboden, bevindt of daar vee laat lopen. 
 
 | *Strafbaar feit*  | *Celstraf*  | *Boete*  |
 |---|---|---|
-|  **Stroperij** | 10 maanden  | € 2500,-  |
-|  **Tot 5 Beschermde dieren** | 10 maanden  | € 5000,-  |
-|  **6 tot 40 Beschermde dieren** | 115 maanden  | € 10.000,-  |
-|  **Vanaf 41 Beschermde dieren** | 30 maanden  | € 20.000,-  |
+|  **Verboden toegang voor onbevoegden** | 0 maanden  | € 750,-  |
+
+### Art. 426ter Sr -  Hinderen van hulpverleners
+het wederrechtelijk hinderen of opdringen aan hulpverleners tijdens hun werk.
+
+| *Strafbaar feit*  | *Celstraf*  | *Boete*  |
+|---|---|---|
+|  **Hinderen van hulpverleners** | 10 maanden  | € 2000,-  |
+
+### Art. 435 Sr -  Valse naam of titel
+1. hij die zonder daartoe gerechtigd te zijn een Nederlandse adellijke titel voert of een Nederlands ereteken draagt
+2. hij die zonder 's Konings verlof waar dit vereist wordt, een vreemd ereteken, titel, rang of waardigheid aanneemt
+3. hij die zonder daartoe gerechtigd te zijn de titel van advocaat of gerechtsdeurwaarder voert
+4. hij die, door het bevoegd gezag naar zijn identificerende persoonsgegevens gevraagd, een valse naam, voornaam, geboortedatum, geboorteplaats, adres waarop hij in de basisregistratie personen als ingezetene staat ingeschreven of woon- of verblijfplaats opgeeft.
+
+| *Strafbaar feit*  | *Celstraf*  | *Boete*  |
+|---|---|---|
+|  **Valse naam of titel** | 10 maanden  | € 1500,-  |
