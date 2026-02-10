@@ -9,12 +9,13 @@ copyright: © 2025 Paradise City Reborn
 # Congiguration
 theme:
   name: material
-  favicon: assets/logo.png
-  icon: assets/logo.webp
+  favicon: assets/favicon.png
+  icon: 
+    logo: assets/logo.png
   palette:
     scheme: slate
-    primary: blue
-    accent: orange
+    primary: black
+    accent: indigo
   language: nl
   features:
     - navigation.instant
@@ -24,6 +25,9 @@ theme:
     - toc.follow
     - content.action.edit
     - content.action.view
+  font:
+    text: Roboto
+    code: Roboto Mono
 
 markdown_extensions:
   - admonition
