@@ -6,41 +6,50 @@ site_author: 'Paradise City Reborn'
 # Copyright
 copyright: © 2025 Paradise City Reborn
 
-# Congiguration
+# Configuration
 theme:
   name: material
   favicon: assets/favicon.png
   logo: assets/logo.svg
   palette:
     scheme: slate
-    primary: black
-    accent: orange
+    primary: custom
+    accent: custom
   language: nl
   features:
     - navigation.instant
     - navigation.tracking
     - navigation.indexes
+    - navigation.tabs
+    - navigation.top
     - header.autohide
     - toc.follow
     - content.action.edit
     - content.action.view
+    - search.suggest
+    - search.highlight
   font:
-    text: Roboto
+    text: false
     code: Roboto Mono
 
 markdown_extensions:
   - admonition
   - attr_list
+
 extra_javascript:
   - https://cdnjs.cloudflare.com/ajax/libs/tablesort/5.2.1/tablesort.min.js
   - javascripts/tables.js
+
+extra_css:
+  - assets/extra.css
+
 nav:
   - Home: index.md
   - Changelogs: changelogs.md
   - Algemene Plaatselijke Verordening: apv.md
   - Onderwereld: onderwereld.md
   - Streamen: streamen.md
-  - Wetboek: 
+  - Wetboek:
     - Algemeen: wetboek/algemeen.md
     - Strafrecht: wetboek/strafrecht.md
     - Wegenverkeerswet: wetboek/wegenverkeerswet.md
