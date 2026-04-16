@@ -18,9 +18,9 @@ theme:
   language: nl
   features:
     - navigation.instant
+    - navigation.sections
     - navigation.tracking
     - navigation.indexes
-    - navigation.tabs
     - navigation.top
     - header.autohide
     - toc.follow
